@@ -1,0 +1,25 @@
+{
+  "name": "aws-rest-with-dynamodb",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a REST HTTP interface",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MishClaw/my_serverless_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MishClaw/my_serverless_test/issues"
+  },
+  "homepage": "https://github.com/MishClaw/my_serverless_test#readme"
+}
